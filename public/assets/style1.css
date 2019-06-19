@@ -1,0 +1,19 @@
+h2 {
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: green;
+}
+
+input {
+    background-color: green;
+}
+
+.form-control {
+    background-color: green;
+}

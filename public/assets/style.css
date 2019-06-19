@@ -1,0 +1,27 @@
+
+
+body {
+    background: black;
+}
+
+img {
+    margin-top: 100px;
+}
+
+
+.display-4 {
+    margin-left: 525px;
+}
+
+h1 {
+
+    font-weight: bold;
+}
+
+.lead {
+    margin-left: 620px;
+}
+
+#btn {
+    margin-left: 635px;
+}
