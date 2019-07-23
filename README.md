@@ -12,5 +12,11 @@ For an example of how it works, please check here.
 - Answer Survey Questioins Provided To Asses Your Interests
 - We give you a recommendation for a new best friend!
 
+### Technology Used
+- Node.js in the CLI to deploy this app locally. This is a great tool for testing before launch!
+- HTML for building the UI
+- Bootstrap library to help with design, CSS, and mobile responsiveness
+- Heroku app hosting server to deploy our app with a public URL accessible by anyone!
+- Express to communicate and retrieve information on the back end.
 
 Hope you enjoy the app!
